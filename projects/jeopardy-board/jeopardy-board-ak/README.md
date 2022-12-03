@@ -1,2 +1,0 @@
-# jeopardy-board-ak
- 
